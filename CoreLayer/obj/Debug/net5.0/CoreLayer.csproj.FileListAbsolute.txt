@@ -1,0 +1,12 @@
+D:\dotnet\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+D:\dotnet\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+D:\dotnet\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+D:\dotnet\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+D:\dotnet\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+D:\dotnet\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
