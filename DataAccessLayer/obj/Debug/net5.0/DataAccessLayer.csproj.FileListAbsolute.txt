@@ -11,6 +11,7 @@ D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEdito
 D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
 D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
 D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
 D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
 D:\dotnet\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
 D:\dotnet\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
