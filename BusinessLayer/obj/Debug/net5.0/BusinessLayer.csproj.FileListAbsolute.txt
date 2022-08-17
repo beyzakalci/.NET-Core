@@ -11,7 +11,6 @@ D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorCon
 D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
 D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
 D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
-D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
 D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 D:\dotnet\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
 D:\dotnet\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
