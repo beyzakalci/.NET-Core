@@ -1,0 +1,16 @@
+﻿@using EntityLayer.Concrete
+@model List<City>
+@{
+    Layout = null;
+}
+
+
+<table>
+    <tr>
+        <th>Şehirler</th>
+    </tr>
+    @foreach(var item in Model)
+            {
+               <tr>@item.CityName</tr>
+            }
+</table>

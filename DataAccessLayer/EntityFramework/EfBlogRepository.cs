@@ -21,5 +21,10 @@ namespace DataAccessLayer.EntityFramework
             }
              
         }
+
+        public List<Blog> GetListWithCity()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

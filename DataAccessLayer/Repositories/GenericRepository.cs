@@ -27,6 +27,7 @@ namespace DataAccessLayer.Repositories
         public List<T> GetListAll()
         {
             using var c = new Context();
+            var cityTest = c.Cities.ToList();
             return c.Set<T>().ToList();
         }
 
