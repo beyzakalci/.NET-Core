@@ -12,16 +12,17 @@ namespace CoreDemo.Controllers
     public class RegisterController : Controller
     {
         WriterManager wm = new WriterManager(new EfWriterRepository());
-
+        CityManager cm = new CityManager(new EfCityRepository());
         [HttpGet]
 
         public IActionResult Index()
         {
-            return View();
-        }
-        [HttpPost]
 
-        
+            var cities = cm.GetList();
+            return View(cities);
+        }
+
+        [HttpPost]
         public IActionResult Index(Writer p)
         {
             p.WriterStatus = true;
@@ -29,5 +30,6 @@ namespace CoreDemo.Controllers
             wm.WriterAdd(p);
             return RedirectToAction("Index", "Blog");
         }
+
     }
 }

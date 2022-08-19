@@ -13,8 +13,14 @@ namespace CoreDemo.Controllers
         CityManager cm = new CityManager(new EfCityRepository());
         public IActionResult Index()
         {
-            var values = cm.GetList();
-            return View(values);
+            return View();
+        }
+
+        public IActionResult GetCity()
+        {
+            var cities = cm.GetList().ToList();
+            ViewBag.Cities = cities;
+            return View(cities);
         }
     }
 }

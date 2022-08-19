@@ -8,7 +8,7 @@ namespace EntityLayer.Concrete
 {
     public class City
     {
-        public int id { get; set; }
-        public int CityName { get; set; }
+        public int Id { get; set; }
+        public string CityName { get; set; }
     }
 }
