@@ -15,7 +15,7 @@ namespace DataAccessLayer.Concrete
             optionsBuilder.UseSqlServer("server=DESKTOP-LQHP0HL;database=CoreBlogDb; integrated security=true;");
         }
 
-        public DbSet<City> Cities { get; set; }
+
 
         public DbSet<About> Abouts { get; set; }
 
