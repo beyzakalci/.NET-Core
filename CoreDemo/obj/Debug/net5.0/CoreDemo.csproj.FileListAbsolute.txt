@@ -191,3 +191,5 @@ D:\dotnet\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
 D:\dotnet\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
 D:\dotnet\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\EditBlog.cshtml.g.cs
 D:\dotnet\CoreDemo\obj\Debug\net5.0\Razor\Views\DashBoard\Index.cshtml.g.cs
+D:\dotnet\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogListDashboard\Default.cshtml.g.cs
+D:\dotnet\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryListDashboard\Default.cshtml.g.cs
