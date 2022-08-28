@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k8RjIoO411E6LF+wZNf2W/0tJySmgzjjkOAk+Vky5cS3U+asAVgOxjdnQjdZQlNrO0xFfByWsxcLzHkACzl3XQ==",
+  "dgSpecHash": "3YHdNjP2Ciu0oOhg2EaeaP3zZV/3/+lS6CfMESbCm7T+Zlw/VqFodOq0ilhdu60yBLcUfzPJYf2N+usPzddJ0Q==",
   "success": true,
   "projectFilePath": "D:\\dotnet\\CoreLayer\\CoreLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\beyza\\.nuget\\packages\\sweetalert\\1.0.0\\sweetalert.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

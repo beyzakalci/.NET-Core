@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V3Kjy/lXUB3DNmetRlUYKGWU8BhmV2WXJFobvNUXnrvFZqGnXbv9G4ZAoIsOCzbz1Sx/7OzxYGLPSgToQPHqGA==",
+  "dgSpecHash": "mIcRKMvb/7XofZLedPTbvKdYKrUPePc93kr+UqIGGzKpL0V9Bc5AKJ/8vTES6ePqS75yuhQeoARdxlUkmA15VQ==",
   "success": true,
   "projectFilePath": "D:\\dotnet\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\beyza\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\beyza\\.nuget\\packages\\sweetalert\\1.0.0\\sweetalert.1.0.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",

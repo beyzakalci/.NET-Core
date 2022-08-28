@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qOw4U3YM2L1DrJlyISnxSN4oTvCGS/z7/KL8bJBXlXDvReWL+PLA1HRTgCRdGxWexJb6AOIjbchItQRJMbb9GA==",
+  "dgSpecHash": "W8k572UxK2546mWHunnEyWYGZIUfYUXld+B/sJl2sYdBieU7Nhka0A2viDIt86LFeti/Y4GfXHX4V92/6vV2jw==",
   "success": true,
   "projectFilePath": "D:\\dotnet\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
@@ -58,6 +58,7 @@
     "C:\\Users\\beyza\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\beyza\\.nuget\\packages\\sweetalert\\1.0.0\\sweetalert.1.0.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\beyza\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
