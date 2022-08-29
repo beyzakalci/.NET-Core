@@ -30,16 +30,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <body>
     <!--Header-->
-
     <header>
         <div class="top-bar_sub_w3layouts container-fluid">
             <div class="row">
                 <div class="col-md-4 logo text-left">
-                    <a class="navbar-brand" href="/Writer/Index">
-                        <i class="fab fa-linode"></i> AspNet Core Blog
-                    </a>
+                    @*<a class="navbar-brand" href="/Writer/Index">
+                            <i class="fab fa-linode"></i> AspNet Core Blog
+                        </a>*@
+                    <a href="../../index.html"><img style="height: 150px; margin-bottom: -50px; margin-top: -19px;" src="~/writer/assets/images/biblog.png" alt="logo" /></a>
+
                 </div>
-                @await Html.PartialAsync("Partial2") 
+                @await Html.PartialAsync("Partial2")
                 <div class="col-md-4 log-icons text-right">
 
                     <ul class="social_list1 mt-3">

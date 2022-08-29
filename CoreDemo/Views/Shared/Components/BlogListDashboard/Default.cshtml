@@ -5,7 +5,7 @@
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">Bloglar</h4>
-                <div class="table-responsive">
+                <div class="table-bordered & table-striped & table-success">
                     <table class="table">
                         <thead>
                             <tr>
@@ -27,11 +27,11 @@
                                     @item.BlogTitle
                                 </td>
                                 <td>
-                                    <label class="badge badge-gradient-success">@item.Category.CategoryName</label>
+                                    <label class="badge badge-gradient-danger">@item.Category.CategoryName</label>
                                 </td>
                                 <td> @(((DateTime)item.BlogCreateDate).ToString("dd-MMM-yyyy")) </td>
                                 <td>
-                                    <a href="/Blog/BlogReadAll/@item.BlogID" class="btn btn-dark">Detaylar</a>
+                                    <a href="/Blog/BlogReadAll/@item.BlogID" class="btn btn-gradient-primary">Detaylar</a>
                                 </td>
                             </tr>
                             }
