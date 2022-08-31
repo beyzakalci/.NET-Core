@@ -133,6 +133,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.2.0, )"
@@ -168,6 +172,14 @@
             "SweetAlert": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[8.4.3, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.4.3, )"
             }
           },
           "imports": [
