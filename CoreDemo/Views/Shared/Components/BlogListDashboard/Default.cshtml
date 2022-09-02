@@ -17,23 +17,23 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (var item in Model)
+                            @for (int i = Model.Count-1; i > Model.Count - 11; i--)
                             {
-                            <tr>
-                                <td>
-                                    <img src="@item.BlogImage" class="mr-2" alt="image"> 
+                                <tr>
+                                    <td>
+                                        <img src="@Model[i].BlogImage " class="mr-2" alt="image">
                                     </td>
-                                <td>
-                                    @item.BlogTitle
-                                </td>
-                                <td>
-                                    <label class="badge badge-gradient-danger">@item.Category.CategoryName</label>
-                                </td>
-                                <td> @(((DateTime)item.BlogCreateDate).ToString("dd-MMM-yyyy")) </td>
-                                <td>
-                                    <a href="/Blog/BlogReadAll/@item.BlogID" class="btn btn-gradient-primary">Detaylar</a>
-                                </td>
-                            </tr>
+                                    <td>
+                                        @Model[i].BlogTitle
+                                    </td>
+                                    <td>
+                                        <label class="badge badge-gradient-danger">@Model[i].Category.CategoryName</label>
+                                    </td>
+                                    <td> @(((DateTime)Model[i].BlogCreateDate).ToString("dd-MMM-yyyy")) </td>
+                                    <td>
+                                        <a href="/Blog/BlogReadAll/@Model[i].BlogID" class="btn btn-gradient-primary">Detaylar</a>
+                                    </td>
+                                </tr>
                             }
                         </tbody>
                     </table>
